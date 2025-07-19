@@ -1,4 +1,4 @@
-<h1 align="center">Altynbek <a href="#" target="_blank">Adilkhan</a> 
+<h1 align="center">Altynbek Adilkhan
 <h3 align="center">Computer science student, software developer from Kazakhstan</h3>
 
 I am a junior **full-stack software developer** with commercial and freelance experience. I already have experience working both in a team and independently: I created web applications, automated processes and wrote bots. My stack includes **Python, JavaScript, Django, Vue, Docker, PostgreSQL** and much more.
